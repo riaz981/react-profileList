@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.profiles:hover{
+	background-color: #f7f6f4;
+}
+
+.profileBlurb{
+	padding-top: 2px;
+    padding-bottom: 22px;
+    background-color: #EEEEEE;
+    position: fixed;
+    padding-left: 8px;
+    padding-right: 8px;
+    min-width: 300px;
+}
+
+.profileContent{
+	font-size: 18px;
+}
+
+.myInput{
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px solid #ddd;
+    padding-left: 6px;
+}
